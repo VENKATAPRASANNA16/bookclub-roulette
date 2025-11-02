@@ -1,0 +1,17 @@
+.discover-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 2rem;
+}
+
+.discover-container h1 {
+  text-align: center;
+  color: #712B39;
+  margin-bottom: 3rem;
+}
+
+.readers {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
